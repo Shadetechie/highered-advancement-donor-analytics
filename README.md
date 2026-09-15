@@ -4,7 +4,8 @@
 This project evaluates alumni gift transactions across 3 Fiscal Years (FY24–FY26) to analyze fundraising performance, track donor retention rates, and identify LYBUNT/SYBUNT lapsed donor pipelines for Advancement teams.
 
 ## Portfolio Dashboard
-![Alt Text Description](Ololade_Folashade_Advancement_KPI_Dashboard.png)
+![Advancement Executive KPI Dashboard](advancement_kpi_dashboard.png)
+<img width="1291" height="681" alt="advancement_kpi_dashboard" src="https://github.com/user-attachments/assets/c6577b64-9677-4355-a5cb-931a096b6690" />
 
 ## Data Architecture & Transformation
 - **Data Source:** Synthesized 1,200-row relational dataset spanning 3 Fiscal Years.
