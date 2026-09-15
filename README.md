@@ -14,7 +14,7 @@ Advancement Executive KPI Dashboard
 - **YoY Donor Retention:** Calculated active alumni retention rates using multi-criteria matrix logic (`COUNTIFS`).
 - **Pipeline Risk (LYBUNT/SYBUNT):** Segmented donors who gave in prior fiscal years but lapsed in FY26 to target re-engagement campaigns.
 
-![Data Transformation Schema](of_data_transforamtion_schema.png)
+![Data Transformation Schema](of_data_transforamtion_schema.PNG)
 
 ## Key Technical Skills Demonstrated
 - **Excel Analytics Engine:** Advanced dynamic table formulas (`IFS`, `COUNTIFS`, `UNIQUE`, `SUMIFS`), multi-variable Pivot Tables, and KPI card formatting.
